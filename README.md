@@ -9,6 +9,7 @@ Eyecraft
 ## 📚 Project Overview
 
 as its my first fullstack project that i build the entire my own ,it will only be a crud application and no authentications and payments or etc.. features are added . it is a simple repository that anyone can follow to get the hang of how we do make fullstack app with MERN + zustand for state management.
+"btw zustand is great..."
 
 ### Key Features
 
