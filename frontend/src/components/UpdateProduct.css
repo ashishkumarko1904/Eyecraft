@@ -1,0 +1,29 @@
+.update-form {
+  width: 400px;
+  height: 400px;
+  background-color: #845ec2;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+}
+.update-input-field {
+  width: 18rem;
+  height: 2.3rem;
+  border: none;
+  border-radius: 10px;
+}
+.update-btn {
+  width: 12rem;
+  height: 2.8rem;
+  background-color: darkgreen;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+}
+.update-btn:hover {
+  background-color: white;
+  color: darkgreen;
+}

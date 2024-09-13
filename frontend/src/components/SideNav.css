@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sidenav {
+  width: 16rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #17202a;
+  color: #28282b;
+}
+.sidenav-link {
+  width: 100%;
+  height: 4rem;
+  display: flex;
+
+  margin-top: 0.08rem;
+
+  align-items: center;
+  justify-content: center;
+  background-color: #5dade2;
+}
+.box-link {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+.box-link:hover {
+  color: black;
+}

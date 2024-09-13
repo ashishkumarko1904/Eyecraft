@@ -1,0 +1,28 @@
+.delete-form {
+  width: 600px;
+  height: 4rem;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.input-field {
+  width: 70%;
+  height: 2.5rem;
+  border: none;
+  border-radius: 10px;
+}
+.btn {
+  width: 8rem;
+  height: 2.5rem;
+  background-color: rgb(32, 27, 27);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+.btn:hover {
+  color: black;
+  background-color: whitesmoke;
+}
