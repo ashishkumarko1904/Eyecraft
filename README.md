@@ -20,6 +20,20 @@ as its my first fullstack project that i build the entire my own ,it will only b
 - **Database**: MongoDB for storing product data, with Mongoose as the ODM (Object Data Modeling) library.
 
 ## 🚀 Getting Started
+after downloading or cloning this repo;
+run following commands in the terminal of your code editor(make sure you opened the folder in your editor btw..)
+
+npm run build
+
+npm run start
+
+after this you can go to the browser and type localhost:5000
+this is the port no declared in the .env file and also the mongouri is also there so make sure to create this .env and put PORT = 5000 and MONGO_URI = "your_mongodb_connection string"
+
+your_mongodb_connection string you have to mention your mongo uri here not the exact text ....
+
+i guess thats all ... happy coding .....
+
 
 ### Prerequisites
 
